@@ -282,6 +282,7 @@ Importance:
 ✅ Ensures software is user-friendly and meets business goals.
 ✅ Approves the software for production release.
 Example:
+
 A hospital management system undergoing User Acceptance Testing (UAT) to ensure doctors and nurses can easily access patient records and schedule appointments.
 Types of Acceptance Testing:
 🔹 User Acceptance Testing (UAT) – Performed by the end-users.
